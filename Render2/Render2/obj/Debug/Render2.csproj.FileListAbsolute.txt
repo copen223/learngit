@@ -1,0 +1,10 @@
+F:\repos\Render2\Render2\bin\Debug\Render2.exe.config
+F:\repos\Render2\Render2\bin\Debug\Render2.exe
+F:\repos\Render2\Render2\bin\Debug\Render2.pdb
+F:\repos\Render2\Render2\obj\Debug\Render2.csprojAssemblyReference.cache
+F:\repos\Render2\Render2\obj\Debug\Render2.Form1.resources
+F:\repos\Render2\Render2\obj\Debug\Render2.Properties.Resources.resources
+F:\repos\Render2\Render2\obj\Debug\Render2.csproj.GenerateResource.cache
+F:\repos\Render2\Render2\obj\Debug\Render2.csproj.CoreCompileInputs.cache
+F:\repos\Render2\Render2\obj\Debug\Render2.exe
+F:\repos\Render2\Render2\obj\Debug\Render2.pdb
